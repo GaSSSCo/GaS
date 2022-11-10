@@ -7,5 +7,4 @@ People, that works on projects:
 2. MillaNR256
 3. Mopuch
 
-
 :)
